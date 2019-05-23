@@ -2,3 +2,9 @@ channels:
   - conda-forge
 dependencies:
   - appmode
+  - sympy
+  - numpy
+  - matplotlib
+  - ipywidgets
+  - pandas
+  - IPython
