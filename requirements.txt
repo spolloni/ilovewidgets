@@ -1,0 +1,7 @@
+sympy
+numpy
+matplotlib
+ipywidgets
+pandas
+IPython
+appmode
